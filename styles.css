@@ -414,16 +414,19 @@ footer{
 
     .project__description--links{
         display: flex;
-        justify-content: center;
+        text-align: left;
+        padding-left: 16px;
     }
 
     .project__description--sub-title{
-        text-align: center;
+        text-align: left;
         margin: 12px 0;
+        padding-left: 16px;
     }
 
     .project__description--title{
         line-height: 1;
         font-size: 32px;
+        padding-left: 16px;
     }
 }
